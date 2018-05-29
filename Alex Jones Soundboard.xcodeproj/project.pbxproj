@@ -1,0 +1,441 @@
+// !$*UTF8*$!
+{
+	archiveVersion = 1;
+	classes = {
+	};
+	objectVersion = 48;
+	objects = {
+
+/* Begin PBXBuildFile section */
+		B5126799205C19C3003B391D /* youre_a_flaming_fascist.mp3 in Resources */ = {isa = PBXBuildFile; fileRef = B5126798205C19C3003B391D /* youre_a_flaming_fascist.mp3 */; };
+		B5239ABA205ADF2000D4E98E /* corrupt_them_all.mp3 in Resources */ = {isa = PBXBuildFile; fileRef = B5239AB9205ADF2000D4E98E /* corrupt_them_all.mp3 */; };
+		B5239ABC205AE25300D4E98E /* jabba.mp3 in Resources */ = {isa = PBXBuildFile; fileRef = B5239ABB205AE25300D4E98E /* jabba.mp3 */; };
+		B5239ABE205AE67C00D4E98E /* like-eat.mp3 in Resources */ = {isa = PBXBuildFile; fileRef = B5239ABD205AE67C00D4E98E /* like-eat.mp3 */; };
+		B5239AC0205AE86000D4E98E /* like_fight.mp3 in Resources */ = {isa = PBXBuildFile; fileRef = B5239ABF205AE86000D4E98E /* like_fight.mp3 */; };
+		B5239AC2205AE93000D4E98E /* super_saiyan.mp3 in Resources */ = {isa = PBXBuildFile; fileRef = B5239AC1205AE93000D4E98E /* super_saiyan.mp3 */; };
+		B5239AC4205AEABF00D4E98E /* love_it.mp3 in Resources */ = {isa = PBXBuildFile; fileRef = B5239AC3205AEABF00D4E98E /* love_it.mp3 */; };
+		B5239AC6205AF10700D4E98E /* im_cumming.mp3 in Resources */ = {isa = PBXBuildFile; fileRef = B5239AC5205AF10700D4E98E /* im_cumming.mp3 */; };
+		B5239ACD205AF30300D4E98E /* im_a_human.mp3 in Resources */ = {isa = PBXBuildFile; fileRef = B5239AC7205AF30200D4E98E /* im_a_human.mp3 */; };
+		B5239ACE205AF30300D4E98E /* im_an_explorer.mp3 in Resources */ = {isa = PBXBuildFile; fileRef = B5239AC8205AF30200D4E98E /* im_an_explorer.mp3 */; };
+		B5239ACF205AF30300D4E98E /* im_angry.mp3 in Resources */ = {isa = PBXBuildFile; fileRef = B5239AC9205AF30200D4E98E /* im_angry.mp3 */; };
+		B5239AD0205AF30300D4E98E /* im_a_pioneer.mp3 in Resources */ = {isa = PBXBuildFile; fileRef = B5239ACA205AF30200D4E98E /* im_a_pioneer.mp3 */; };
+		B5239AD1205AF30300D4E98E /* im_alive.mp3 in Resources */ = {isa = PBXBuildFile; fileRef = B5239ACB205AF30300D4E98E /* im_alive.mp3 */; };
+		B5239AD2205AF30300D4E98E /* im_animated.mp3 in Resources */ = {isa = PBXBuildFile; fileRef = B5239ACC205AF30300D4E98E /* im_animated.mp3 */; };
+		B52693E1209B5FDC003EEC34 /* TabDefaulter.swift in Sources */ = {isa = PBXBuildFile; fileRef = B52693E0209B5FDC003EEC34 /* TabDefaulter.swift */; };
+		B53507DC205AFE2500F2A4DD /* ThirdViewController.swift in Sources */ = {isa = PBXBuildFile; fileRef = B53507DB205AFE2500F2A4DD /* ThirdViewController.swift */; };
+		B53507DE205B015E00F2A4DD /* FourthViewController.swift in Sources */ = {isa = PBXBuildFile; fileRef = B53507DD205B015E00F2A4DD /* FourthViewController.swift */; };
+		B53507E1205B01DC00F2A4DD /* scum.mp3 in Resources */ = {isa = PBXBuildFile; fileRef = B53507DF205B01DB00F2A4DD /* scum.mp3 */; };
+		B53507E2205B01DC00F2A4DD /* piece_of_trash.mp3 in Resources */ = {isa = PBXBuildFile; fileRef = B53507E0205B01DC00F2A4DD /* piece_of_trash.mp3 */; };
+		B53507E4205B01F200F2A4DD /* shut_your_mouth.mp3 in Resources */ = {isa = PBXBuildFile; fileRef = B53507E3205B01F200F2A4DD /* shut_your_mouth.mp3 */; };
+		B54F82D820740834000C255A /* crapping_in_the_pool.mp3 in Resources */ = {isa = PBXBuildFile; fileRef = B54F82D720740834000C255A /* crapping_in_the_pool.mp3 */; };
+		B5568273208922AF000AB5B3 /* FifthViewController.swift in Sources */ = {isa = PBXBuildFile; fileRef = B5568272208922AF000AB5B3 /* FifthViewController.swift */; };
+		B55FA400206182C3002C0B1C /* authoritarian.mp3 in Resources */ = {isa = PBXBuildFile; fileRef = B55FA3FF206182C3002C0B1C /* authoritarian.mp3 */; };
+		B5976ABB205AC1C60071CDA1 /* demon_hillary.mp3 in Resources */ = {isa = PBXBuildFile; fileRef = B5976ABA205AC1C60071CDA1 /* demon_hillary.mp3 */; };
+		B5D142432058552000929347 /* AppDelegate.swift in Sources */ = {isa = PBXBuildFile; fileRef = B5D142422058552000929347 /* AppDelegate.swift */; };
+		B5D142452058552000929347 /* FirstViewController.swift in Sources */ = {isa = PBXBuildFile; fileRef = B5D142442058552000929347 /* FirstViewController.swift */; };
+		B5D142472058552000929347 /* SecondViewController.swift in Sources */ = {isa = PBXBuildFile; fileRef = B5D142462058552000929347 /* SecondViewController.swift */; };
+		B5D1424A2058552000929347 /* Main.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = B5D142482058552000929347 /* Main.storyboard */; };
+		B5D1424C2058552000929347 /* Assets.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = B5D1424B2058552000929347 /* Assets.xcassets */; };
+		B5D1424F2058552000929347 /* LaunchScreen.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = B5D1424D2058552000929347 /* LaunchScreen.storyboard */; };
+		B5D14257205859F400929347 /* Alex Jones Sounds in Resources */ = {isa = PBXBuildFile; fileRef = B5D14256205859F400929347 /* Alex Jones Sounds */; };
+		B5D1425920585B9E00929347 /* gay_frogs.mp3 in Resources */ = {isa = PBXBuildFile; fileRef = B5D1425820585B9E00929347 /* gay_frogs.mp3 */; };
+		B5D1425B20585F4200929347 /* yeet1776.mp3 in Resources */ = {isa = PBXBuildFile; fileRef = B5D1425A20585F4100929347 /* yeet1776.mp3 */; };
+/* End PBXBuildFile section */
+
+/* Begin PBXFileReference section */
+		B5126798205C19C3003B391D /* youre_a_flaming_fascist.mp3 */ = {isa = PBXFileReference; lastKnownFileType = audio.mp3; name = youre_a_flaming_fascist.mp3; path = "Alex Jones Sounds/youre_a_flaming_fascist.mp3"; sourceTree = "<group>"; };
+		B5239AB9205ADF2000D4E98E /* corrupt_them_all.mp3 */ = {isa = PBXFileReference; lastKnownFileType = audio.mp3; name = corrupt_them_all.mp3; path = "Alex Jones Sounds/corrupt_them_all.mp3"; sourceTree = "<group>"; };
+		B5239ABB205AE25300D4E98E /* jabba.mp3 */ = {isa = PBXFileReference; lastKnownFileType = audio.mp3; name = jabba.mp3; path = "Alex Jones Sounds/jabba.mp3"; sourceTree = "<group>"; };
+		B5239ABD205AE67C00D4E98E /* like-eat.mp3 */ = {isa = PBXFileReference; lastKnownFileType = audio.mp3; name = "like-eat.mp3"; path = "Alex Jones Sounds/like-eat.mp3"; sourceTree = "<group>"; };
+		B5239ABF205AE86000D4E98E /* like_fight.mp3 */ = {isa = PBXFileReference; lastKnownFileType = audio.mp3; name = like_fight.mp3; path = "Alex Jones Sounds/like_fight.mp3"; sourceTree = "<group>"; };
+		B5239AC1205AE93000D4E98E /* super_saiyan.mp3 */ = {isa = PBXFileReference; lastKnownFileType = audio.mp3; name = super_saiyan.mp3; path = "Alex Jones Sounds/super_saiyan.mp3"; sourceTree = "<group>"; };
+		B5239AC3205AEABF00D4E98E /* love_it.mp3 */ = {isa = PBXFileReference; lastKnownFileType = audio.mp3; name = love_it.mp3; path = "Alex Jones Sounds/love_it.mp3"; sourceTree = "<group>"; };
+		B5239AC5205AF10700D4E98E /* im_cumming.mp3 */ = {isa = PBXFileReference; lastKnownFileType = audio.mp3; name = im_cumming.mp3; path = "Alex Jones Sounds/im_cumming.mp3"; sourceTree = "<group>"; };
+		B5239AC7205AF30200D4E98E /* im_a_human.mp3 */ = {isa = PBXFileReference; lastKnownFileType = audio.mp3; name = im_a_human.mp3; path = "Alex Jones Sounds/im_a_human.mp3"; sourceTree = "<group>"; };
+		B5239AC8205AF30200D4E98E /* im_an_explorer.mp3 */ = {isa = PBXFileReference; lastKnownFileType = audio.mp3; name = im_an_explorer.mp3; path = "Alex Jones Sounds/im_an_explorer.mp3"; sourceTree = "<group>"; };
+		B5239AC9205AF30200D4E98E /* im_angry.mp3 */ = {isa = PBXFileReference; lastKnownFileType = audio.mp3; name = im_angry.mp3; path = "Alex Jones Sounds/im_angry.mp3"; sourceTree = "<group>"; };
+		B5239ACA205AF30200D4E98E /* im_a_pioneer.mp3 */ = {isa = PBXFileReference; lastKnownFileType = audio.mp3; name = im_a_pioneer.mp3; path = "Alex Jones Sounds/im_a_pioneer.mp3"; sourceTree = "<group>"; };
+		B5239ACB205AF30300D4E98E /* im_alive.mp3 */ = {isa = PBXFileReference; lastKnownFileType = audio.mp3; name = im_alive.mp3; path = "Alex Jones Sounds/im_alive.mp3"; sourceTree = "<group>"; };
+		B5239ACC205AF30300D4E98E /* im_animated.mp3 */ = {isa = PBXFileReference; lastKnownFileType = audio.mp3; name = im_animated.mp3; path = "Alex Jones Sounds/im_animated.mp3"; sourceTree = "<group>"; };
+		B52693E0209B5FDC003EEC34 /* TabDefaulter.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; name = TabDefaulter.swift; path = "Alex Jones Soundboard/TabDefaulter.swift"; sourceTree = "<group>"; };
+		B53507DB205AFE2500F2A4DD /* ThirdViewController.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = ThirdViewController.swift; sourceTree = "<group>"; };
+		B53507DD205B015E00F2A4DD /* FourthViewController.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = FourthViewController.swift; sourceTree = "<group>"; };
+		B53507DF205B01DB00F2A4DD /* scum.mp3 */ = {isa = PBXFileReference; lastKnownFileType = audio.mp3; path = scum.mp3; sourceTree = "<group>"; };
+		B53507E0205B01DC00F2A4DD /* piece_of_trash.mp3 */ = {isa = PBXFileReference; lastKnownFileType = audio.mp3; path = piece_of_trash.mp3; sourceTree = "<group>"; };
+		B53507E3205B01F200F2A4DD /* shut_your_mouth.mp3 */ = {isa = PBXFileReference; lastKnownFileType = audio.mp3; path = shut_your_mouth.mp3; sourceTree = "<group>"; };
+		B54F82D720740834000C255A /* crapping_in_the_pool.mp3 */ = {isa = PBXFileReference; lastKnownFileType = audio.mp3; name = crapping_in_the_pool.mp3; path = "Alex Jones Sounds/crapping_in_the_pool.mp3"; sourceTree = "<group>"; };
+		B5568272208922AF000AB5B3 /* FifthViewController.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = FifthViewController.swift; sourceTree = "<group>"; };
+		B55FA3FF206182C3002C0B1C /* authoritarian.mp3 */ = {isa = PBXFileReference; lastKnownFileType = audio.mp3; name = authoritarian.mp3; path = "Alex Jones Sounds/authoritarian.mp3"; sourceTree = "<group>"; };
+		B5976ABA205AC1C60071CDA1 /* demon_hillary.mp3 */ = {isa = PBXFileReference; lastKnownFileType = audio.mp3; name = demon_hillary.mp3; path = "Alex Jones Sounds/demon_hillary.mp3"; sourceTree = "<group>"; };
+		B5D1423F2058552000929347 /* Alex Jones Soundboard.app */ = {isa = PBXFileReference; explicitFileType = wrapper.application; includeInIndex = 0; path = "Alex Jones Soundboard.app"; sourceTree = BUILT_PRODUCTS_DIR; };
+		B5D142422058552000929347 /* AppDelegate.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = AppDelegate.swift; sourceTree = "<group>"; };
+		B5D142442058552000929347 /* FirstViewController.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = FirstViewController.swift; sourceTree = "<group>"; };
+		B5D142462058552000929347 /* SecondViewController.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = SecondViewController.swift; sourceTree = "<group>"; };
+		B5D142492058552000929347 /* Base */ = {isa = PBXFileReference; lastKnownFileType = file.storyboard; name = Base; path = Base.lproj/Main.storyboard; sourceTree = "<group>"; };
+		B5D1424B2058552000929347 /* Assets.xcassets */ = {isa = PBXFileReference; lastKnownFileType = folder.assetcatalog; path = Assets.xcassets; sourceTree = "<group>"; };
+		B5D1424E2058552000929347 /* Base */ = {isa = PBXFileReference; lastKnownFileType = file.storyboard; name = Base; path = Base.lproj/LaunchScreen.storyboard; sourceTree = "<group>"; };
+		B5D142502058552000929347 /* Info.plist */ = {isa = PBXFileReference; lastKnownFileType = text.plist.xml; path = Info.plist; sourceTree = "<group>"; };
+		B5D14256205859F400929347 /* Alex Jones Sounds */ = {isa = PBXFileReference; lastKnownFileType = folder; path = "Alex Jones Sounds"; sourceTree = "<group>"; };
+		B5D1425820585B9E00929347 /* gay_frogs.mp3 */ = {isa = PBXFileReference; lastKnownFileType = audio.mp3; path = gay_frogs.mp3; sourceTree = "<group>"; };
+		B5D1425A20585F4100929347 /* yeet1776.mp3 */ = {isa = PBXFileReference; lastKnownFileType = audio.mp3; name = yeet1776.mp3; path = "Alex Jones Sounds/yeet1776.mp3"; sourceTree = "<group>"; };
+/* End PBXFileReference section */
+
+/* Begin PBXFrameworksBuildPhase section */
+		B5D1423C2058552000929347 /* Frameworks */ = {
+			isa = PBXFrameworksBuildPhase;
+			buildActionMask = 2147483647;
+			files = (
+			);
+			runOnlyForDeploymentPostprocessing = 0;
+		};
+/* End PBXFrameworksBuildPhase section */
+
+/* Begin PBXGroup section */
+		B5D142362058552000929347 = {
+			isa = PBXGroup;
+			children = (
+				B52693E0209B5FDC003EEC34 /* TabDefaulter.swift */,
+				B5D142412058552000929347 /* Alex Jones Soundboard */,
+				B5D142402058552000929347 /* Products */,
+			);
+			sourceTree = "<group>";
+		};
+		B5D142402058552000929347 /* Products */ = {
+			isa = PBXGroup;
+			children = (
+				B5D1423F2058552000929347 /* Alex Jones Soundboard.app */,
+			);
+			name = Products;
+			sourceTree = "<group>";
+		};
+		B5D142412058552000929347 /* Alex Jones Soundboard */ = {
+			isa = PBXGroup;
+			children = (
+				B53507DB205AFE2500F2A4DD /* ThirdViewController.swift */,
+				B54F82D720740834000C255A /* crapping_in_the_pool.mp3 */,
+				B55FA3FF206182C3002C0B1C /* authoritarian.mp3 */,
+				B5126798205C19C3003B391D /* youre_a_flaming_fascist.mp3 */,
+				B53507DD205B015E00F2A4DD /* FourthViewController.swift */,
+				B53507E3205B01F200F2A4DD /* shut_your_mouth.mp3 */,
+				B53507E0205B01DC00F2A4DD /* piece_of_trash.mp3 */,
+				B53507DF205B01DB00F2A4DD /* scum.mp3 */,
+				B5D14256205859F400929347 /* Alex Jones Sounds */,
+				B5D142422058552000929347 /* AppDelegate.swift */,
+				B5D142442058552000929347 /* FirstViewController.swift */,
+				B5D1425A20585F4100929347 /* yeet1776.mp3 */,
+				B5D1425820585B9E00929347 /* gay_frogs.mp3 */,
+				B5D142462058552000929347 /* SecondViewController.swift */,
+				B5D142482058552000929347 /* Main.storyboard */,
+				B5239AC1205AE93000D4E98E /* super_saiyan.mp3 */,
+				B5239AC7205AF30200D4E98E /* im_a_human.mp3 */,
+				B5239ACA205AF30200D4E98E /* im_a_pioneer.mp3 */,
+				B5239ACB205AF30300D4E98E /* im_alive.mp3 */,
+				B5239AC8205AF30200D4E98E /* im_an_explorer.mp3 */,
+				B5239AC9205AF30200D4E98E /* im_angry.mp3 */,
+				B5239ACC205AF30300D4E98E /* im_animated.mp3 */,
+				B5239AC5205AF10700D4E98E /* im_cumming.mp3 */,
+				B5239AC3205AEABF00D4E98E /* love_it.mp3 */,
+				B5239ABF205AE86000D4E98E /* like_fight.mp3 */,
+				B5239ABD205AE67C00D4E98E /* like-eat.mp3 */,
+				B5D1424B2058552000929347 /* Assets.xcassets */,
+				B5568272208922AF000AB5B3 /* FifthViewController.swift */,
+				B5976ABA205AC1C60071CDA1 /* demon_hillary.mp3 */,
+				B5239ABB205AE25300D4E98E /* jabba.mp3 */,
+				B5239AB9205ADF2000D4E98E /* corrupt_them_all.mp3 */,
+				B5D1424D2058552000929347 /* LaunchScreen.storyboard */,
+				B5D142502058552000929347 /* Info.plist */,
+			);
+			path = "Alex Jones Soundboard";
+			sourceTree = "<group>";
+		};
+/* End PBXGroup section */
+
+/* Begin PBXNativeTarget section */
+		B5D1423E2058552000929347 /* Alex Jones Soundboard */ = {
+			isa = PBXNativeTarget;
+			buildConfigurationList = B5D142532058552000929347 /* Build configuration list for PBXNativeTarget "Alex Jones Soundboard" */;
+			buildPhases = (
+				B5D1423B2058552000929347 /* Sources */,
+				B5D1423C2058552000929347 /* Frameworks */,
+				B5D1423D2058552000929347 /* Resources */,
+			);
+			buildRules = (
+			);
+			dependencies = (
+			);
+			name = "Alex Jones Soundboard";
+			productName = "Alex Jones Soundboard";
+			productReference = B5D1423F2058552000929347 /* Alex Jones Soundboard.app */;
+			productType = "com.apple.product-type.application";
+		};
+/* End PBXNativeTarget section */
+
+/* Begin PBXProject section */
+		B5D142372058552000929347 /* Project object */ = {
+			isa = PBXProject;
+			attributes = {
+				LastSwiftUpdateCheck = 0920;
+				LastUpgradeCheck = 0920;
+				ORGANIZATIONNAME = "Ben Stahl";
+				TargetAttributes = {
+					B5D1423E2058552000929347 = {
+						CreatedOnToolsVersion = 9.2;
+						ProvisioningStyle = Automatic;
+					};
+				};
+			};
+			buildConfigurationList = B5D1423A2058552000929347 /* Build configuration list for PBXProject "Alex Jones Soundboard" */;
+			compatibilityVersion = "Xcode 8.0";
+			developmentRegion = en;
+			hasScannedForEncodings = 0;
+			knownRegions = (
+				en,
+				Base,
+			);
+			mainGroup = B5D142362058552000929347;
+			productRefGroup = B5D142402058552000929347 /* Products */;
+			projectDirPath = "";
+			projectRoot = "";
+			targets = (
+				B5D1423E2058552000929347 /* Alex Jones Soundboard */,
+			);
+		};
+/* End PBXProject section */
+
+/* Begin PBXResourcesBuildPhase section */
+		B5D1423D2058552000929347 /* Resources */ = {
+			isa = PBXResourcesBuildPhase;
+			buildActionMask = 2147483647;
+			files = (
+				B5D1424F2058552000929347 /* LaunchScreen.storyboard in Resources */,
+				B5D1424C2058552000929347 /* Assets.xcassets in Resources */,
+				B5D1425920585B9E00929347 /* gay_frogs.mp3 in Resources */,
+				B5976ABB205AC1C60071CDA1 /* demon_hillary.mp3 in Resources */,
+				B5239ACE205AF30300D4E98E /* im_an_explorer.mp3 in Resources */,
+				B53507E4205B01F200F2A4DD /* shut_your_mouth.mp3 in Resources */,
+				B5126799205C19C3003B391D /* youre_a_flaming_fascist.mp3 in Resources */,
+				B5D1425B20585F4200929347 /* yeet1776.mp3 in Resources */,
+				B5239AC6205AF10700D4E98E /* im_cumming.mp3 in Resources */,
+				B5239ABE205AE67C00D4E98E /* like-eat.mp3 in Resources */,
+				B5239ACD205AF30300D4E98E /* im_a_human.mp3 in Resources */,
+				B5239AD2205AF30300D4E98E /* im_animated.mp3 in Resources */,
+				B5D14257205859F400929347 /* Alex Jones Sounds in Resources */,
+				B55FA400206182C3002C0B1C /* authoritarian.mp3 in Resources */,
+				B5239ABA205ADF2000D4E98E /* corrupt_them_all.mp3 in Resources */,
+				B5239ABC205AE25300D4E98E /* jabba.mp3 in Resources */,
+				B53507E2205B01DC00F2A4DD /* piece_of_trash.mp3 in Resources */,
+				B5239AC4205AEABF00D4E98E /* love_it.mp3 in Resources */,
+				B5239AC2205AE93000D4E98E /* super_saiyan.mp3 in Resources */,
+				B5D1424A2058552000929347 /* Main.storyboard in Resources */,
+				B5239AD1205AF30300D4E98E /* im_alive.mp3 in Resources */,
+				B53507E1205B01DC00F2A4DD /* scum.mp3 in Resources */,
+				B5239ACF205AF30300D4E98E /* im_angry.mp3 in Resources */,
+				B5239AC0205AE86000D4E98E /* like_fight.mp3 in Resources */,
+				B5239AD0205AF30300D4E98E /* im_a_pioneer.mp3 in Resources */,
+				B54F82D820740834000C255A /* crapping_in_the_pool.mp3 in Resources */,
+			);
+			runOnlyForDeploymentPostprocessing = 0;
+		};
+/* End PBXResourcesBuildPhase section */
+
+/* Begin PBXSourcesBuildPhase section */
+		B5D1423B2058552000929347 /* Sources */ = {
+			isa = PBXSourcesBuildPhase;
+			buildActionMask = 2147483647;
+			files = (
+				B5568273208922AF000AB5B3 /* FifthViewController.swift in Sources */,
+				B5D142472058552000929347 /* SecondViewController.swift in Sources */,
+				B5D142432058552000929347 /* AppDelegate.swift in Sources */,
+				B52693E1209B5FDC003EEC34 /* TabDefaulter.swift in Sources */,
+				B53507DC205AFE2500F2A4DD /* ThirdViewController.swift in Sources */,
+				B5D142452058552000929347 /* FirstViewController.swift in Sources */,
+				B53507DE205B015E00F2A4DD /* FourthViewController.swift in Sources */,
+			);
+			runOnlyForDeploymentPostprocessing = 0;
+		};
+/* End PBXSourcesBuildPhase section */
+
+/* Begin PBXVariantGroup section */
+		B5D142482058552000929347 /* Main.storyboard */ = {
+			isa = PBXVariantGroup;
+			children = (
+				B5D142492058552000929347 /* Base */,
+			);
+			name = Main.storyboard;
+			sourceTree = "<group>";
+		};
+		B5D1424D2058552000929347 /* LaunchScreen.storyboard */ = {
+			isa = PBXVariantGroup;
+			children = (
+				B5D1424E2058552000929347 /* Base */,
+			);
+			name = LaunchScreen.storyboard;
+			sourceTree = "<group>";
+		};
+/* End PBXVariantGroup section */
+
+/* Begin XCBuildConfiguration section */
+		B5D142512058552000929347 /* Debug */ = {
+			isa = XCBuildConfiguration;
+			buildSettings = {
+				ALWAYS_SEARCH_USER_PATHS = NO;
+				CLANG_ANALYZER_NONNULL = YES;
+				CLANG_ANALYZER_NUMBER_OBJECT_CONVERSION = YES_AGGRESSIVE;
+				CLANG_CXX_LANGUAGE_STANDARD = "gnu++14";
+				CLANG_CXX_LIBRARY = "libc++";
+				CLANG_ENABLE_MODULES = YES;
+				CLANG_ENABLE_OBJC_ARC = YES;
+				CLANG_WARN_BLOCK_CAPTURE_AUTORELEASING = YES;
+				CLANG_WARN_BOOL_CONVERSION = YES;
+				CLANG_WARN_COMMA = YES;
+				CLANG_WARN_CONSTANT_CONVERSION = YES;
+				CLANG_WARN_DIRECT_OBJC_ISA_USAGE = YES_ERROR;
+				CLANG_WARN_DOCUMENTATION_COMMENTS = YES;
+				CLANG_WARN_EMPTY_BODY = YES;
+				CLANG_WARN_ENUM_CONVERSION = YES;
+				CLANG_WARN_INFINITE_RECURSION = YES;
+				CLANG_WARN_INT_CONVERSION = YES;
+				CLANG_WARN_NON_LITERAL_NULL_CONVERSION = YES;
+				CLANG_WARN_OBJC_LITERAL_CONVERSION = YES;
+				CLANG_WARN_OBJC_ROOT_CLASS = YES_ERROR;
+				CLANG_WARN_RANGE_LOOP_ANALYSIS = YES;
+				CLANG_WARN_STRICT_PROTOTYPES = YES;
+				CLANG_WARN_SUSPICIOUS_MOVE = YES;
+				CLANG_WARN_UNGUARDED_AVAILABILITY = YES_AGGRESSIVE;
+				CLANG_WARN_UNREACHABLE_CODE = YES;
+				CLANG_WARN__DUPLICATE_METHOD_MATCH = YES;
+				CODE_SIGN_IDENTITY = "iPhone Developer";
+				COPY_PHASE_STRIP = NO;
+				DEBUG_INFORMATION_FORMAT = dwarf;
+				ENABLE_STRICT_OBJC_MSGSEND = YES;
+				ENABLE_TESTABILITY = YES;
+				GCC_C_LANGUAGE_STANDARD = gnu11;
+				GCC_DYNAMIC_NO_PIC = NO;
+				GCC_NO_COMMON_BLOCKS = YES;
+				GCC_OPTIMIZATION_LEVEL = 0;
+				GCC_PREPROCESSOR_DEFINITIONS = (
+					"DEBUG=1",
+					"$(inherited)",
+				);
+				GCC_WARN_64_TO_32_BIT_CONVERSION = YES;
+				GCC_WARN_ABOUT_RETURN_TYPE = YES_ERROR;
+				GCC_WARN_UNDECLARED_SELECTOR = YES;
+				GCC_WARN_UNINITIALIZED_AUTOS = YES_AGGRESSIVE;
+				GCC_WARN_UNUSED_FUNCTION = YES;
+				GCC_WARN_UNUSED_VARIABLE = YES;
+				IPHONEOS_DEPLOYMENT_TARGET = 11.2;
+				MTL_ENABLE_DEBUG_INFO = YES;
+				ONLY_ACTIVE_ARCH = YES;
+				SDKROOT = iphoneos;
+				SWIFT_ACTIVE_COMPILATION_CONDITIONS = DEBUG;
+				SWIFT_OPTIMIZATION_LEVEL = "-Onone";
+			};
+			name = Debug;
+		};
+		B5D142522058552000929347 /* Release */ = {
+			isa = XCBuildConfiguration;
+			buildSettings = {
+				ALWAYS_SEARCH_USER_PATHS = NO;
+				CLANG_ANALYZER_NONNULL = YES;
+				CLANG_ANALYZER_NUMBER_OBJECT_CONVERSION = YES_AGGRESSIVE;
+				CLANG_CXX_LANGUAGE_STANDARD = "gnu++14";
+				CLANG_CXX_LIBRARY = "libc++";
+				CLANG_ENABLE_MODULES = YES;
+				CLANG_ENABLE_OBJC_ARC = YES;
+				CLANG_WARN_BLOCK_CAPTURE_AUTORELEASING = YES;
+				CLANG_WARN_BOOL_CONVERSION = YES;
+				CLANG_WARN_COMMA = YES;
+				CLANG_WARN_CONSTANT_CONVERSION = YES;
+				CLANG_WARN_DIRECT_OBJC_ISA_USAGE = YES_ERROR;
+				CLANG_WARN_DOCUMENTATION_COMMENTS = YES;
+				CLANG_WARN_EMPTY_BODY = YES;
+				CLANG_WARN_ENUM_CONVERSION = YES;
+				CLANG_WARN_INFINITE_RECURSION = YES;
+				CLANG_WARN_INT_CONVERSION = YES;
+				CLANG_WARN_NON_LITERAL_NULL_CONVERSION = YES;
+				CLANG_WARN_OBJC_LITERAL_CONVERSION = YES;
+				CLANG_WARN_OBJC_ROOT_CLASS = YES_ERROR;
+				CLANG_WARN_RANGE_LOOP_ANALYSIS = YES;
+				CLANG_WARN_STRICT_PROTOTYPES = YES;
+				CLANG_WARN_SUSPICIOUS_MOVE = YES;
+				CLANG_WARN_UNGUARDED_AVAILABILITY = YES_AGGRESSIVE;
+				CLANG_WARN_UNREACHABLE_CODE = YES;
+				CLANG_WARN__DUPLICATE_METHOD_MATCH = YES;
+				CODE_SIGN_IDENTITY = "iPhone Developer";
+				COPY_PHASE_STRIP = NO;
+				DEBUG_INFORMATION_FORMAT = "dwarf-with-dsym";
+				ENABLE_NS_ASSERTIONS = NO;
+				ENABLE_STRICT_OBJC_MSGSEND = YES;
+				GCC_C_LANGUAGE_STANDARD = gnu11;
+				GCC_NO_COMMON_BLOCKS = YES;
+				GCC_WARN_64_TO_32_BIT_CONVERSION = YES;
+				GCC_WARN_ABOUT_RETURN_TYPE = YES_ERROR;
+				GCC_WARN_UNDECLARED_SELECTOR = YES;
+				GCC_WARN_UNINITIALIZED_AUTOS = YES_AGGRESSIVE;
+				GCC_WARN_UNUSED_FUNCTION = YES;
+				GCC_WARN_UNUSED_VARIABLE = YES;
+				IPHONEOS_DEPLOYMENT_TARGET = 11.2;
+				MTL_ENABLE_DEBUG_INFO = NO;
+				SDKROOT = iphoneos;
+				SWIFT_OPTIMIZATION_LEVEL = "-Owholemodule";
+				VALIDATE_PRODUCT = YES;
+			};
+			name = Release;
+		};
+		B5D142542058552000929347 /* Debug */ = {
+			isa = XCBuildConfiguration;
+			buildSettings = {
+				ASSETCATALOG_COMPILER_APPICON_NAME = AppIcon;
+				CODE_SIGN_STYLE = Automatic;
+				DEVELOPMENT_TEAM = KBN5H2AN57;
+				INFOPLIST_FILE = "Alex Jones Soundboard/Info.plist";
+				IPHONEOS_DEPLOYMENT_TARGET = 8.4;
+				LD_RUNPATH_SEARCH_PATHS = "$(inherited) @executable_path/Frameworks";
+				PRODUCT_BUNDLE_IDENTIFIER = "com.cydiaben.Alex-Jones-Soundboard";
+				PRODUCT_NAME = "$(TARGET_NAME)";
+				SWIFT_VERSION = 4.0;
+				TARGETED_DEVICE_FAMILY = "1,2";
+			};
+			name = Debug;
+		};
+		B5D142552058552000929347 /* Release */ = {
+			isa = XCBuildConfiguration;
+			buildSettings = {
+				ASSETCATALOG_COMPILER_APPICON_NAME = AppIcon;
+				CODE_SIGN_STYLE = Automatic;
+				DEVELOPMENT_TEAM = KBN5H2AN57;
+				INFOPLIST_FILE = "Alex Jones Soundboard/Info.plist";
+				IPHONEOS_DEPLOYMENT_TARGET = 8.4;
+				LD_RUNPATH_SEARCH_PATHS = "$(inherited) @executable_path/Frameworks";
+				PRODUCT_BUNDLE_IDENTIFIER = "com.cydiaben.Alex-Jones-Soundboard";
+				PRODUCT_NAME = "$(TARGET_NAME)";
+				SWIFT_VERSION = 4.0;
+				TARGETED_DEVICE_FAMILY = "1,2";
+			};
+			name = Release;
+		};
+/* End XCBuildConfiguration section */
+
+/* Begin XCConfigurationList section */
+		B5D1423A2058552000929347 /* Build configuration list for PBXProject "Alex Jones Soundboard" */ = {
+			isa = XCConfigurationList;
+			buildConfigurations = (
+				B5D142512058552000929347 /* Debug */,
+				B5D142522058552000929347 /* Release */,
+			);
+			defaultConfigurationIsVisible = 0;
+			defaultConfigurationName = Release;
+		};
+		B5D142532058552000929347 /* Build configuration list for PBXNativeTarget "Alex Jones Soundboard" */ = {
+			isa = XCConfigurationList;
+			buildConfigurations = (
+				B5D142542058552000929347 /* Debug */,
+				B5D142552058552000929347 /* Release */,
+			);
+			defaultConfigurationIsVisible = 0;
+			defaultConfigurationName = Release;
+		};
+/* End XCConfigurationList section */
+	};
+	rootObject = B5D142372058552000929347 /* Project object */;
+}
