@@ -1,6 +1,12 @@
 # Alex-Jones-Soundboard
 An iOS app built in Swift that plays various Alex Jones soundbites.
 
+============================================
+# UPDATE – 11/29/2018
+
+The laptop I was developing on has caught fire and I did not back anything up because I'm an idiot, meaning that my local copy of the source code is gone. Updates may be sporadic.
+
+============================================
 
 # WARNING
 
